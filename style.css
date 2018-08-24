@@ -1,0 +1,22 @@
+
+
+body {
+	background-color: black
+}
+
+label {
+	font-size: 20px;
+	color: whitesmoke
+  }
+
+.btn-primary {
+	margin-right: 8px;
+	background-color: red;
+	border-color: whitesmoke;
+	border-width: 2px;
+}	
+
+.btn-primary:hover {
+	background-color:red;
+	border-color: whitesmoke;
+}
